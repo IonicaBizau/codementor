@@ -95,6 +95,7 @@ CodeMentor.mentorProfile("johnnyb", (err, data) => {
 
 ## :memo: Documentation
 
+
 ### `userUrl(user)`
 Returns the user profile url.
 
