@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/codementor/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/codementor#readme"
+  "homepage": "https://github.com/IonicaBizau/codementor#readme",
+  "dependencies": {
+    "match-it": "^1.0.1",
+    "scrape-it": "^3.0.1",
+    "split-by-comma": "^1.0.0"
+  }
 }
