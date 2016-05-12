@@ -27,5 +27,25 @@
     "match-it": "^1.0.1",
     "scrape-it": "^3.0.1",
     "split-by-comma": "^1.0.0"
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ],
+  "blah": {
+    "description": {
+      "blockquote": ":bulb: **Hey!** If you need help with JavaScript/CSS/HTML/Git & GitHub, [ping me on CodeMentor](https://www.codementor.io/johnnyb)."
+    }
+  },
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {}
 }

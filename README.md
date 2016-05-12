@@ -5,6 +5,9 @@
 
 > A scrapper for codementor.io.
 
+> :bulb: **Hey!** If you need help with JavaScript/CSS/HTML/Git & GitHub, [ping me on CodeMentor](https://www.codementor.io/johnnyb).
+
+
 ## :cloud: Installation
 
 ```sh
