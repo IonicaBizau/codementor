@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Returns the user profile url.
 
 #### Params
+
 - **String** `user`: The CodeMentor username.
 
 #### Return
@@ -15,6 +16,7 @@ Returns the user profile url.
 Scrapes the mentor profile.
 
 #### Params
+
 - **String** `user`: The CodeMentor username.
 - **Function** `cb`: The callback function.
 
@@ -25,6 +27,7 @@ Scrapes the mentor profile.
 Gets the mentor reviews.
 
 #### Params
+
 - **String** `user`: The CodeMentor username.
 - **Function** `cb`: The callback function.
 
