@@ -13,7 +13,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save codementor
+# Using npm
+npm install --save codementor
+
+# Using yarn
+yarn add codementor
 ```
 
 
