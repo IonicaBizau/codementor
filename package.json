@@ -25,7 +25,7 @@
   "homepage": "https://github.com/IonicaBizau/codementor#readme",
   "dependencies": {
     "match-it": "^1.0.1",
-    "scrape-it": "^3.0.1",
+    "scrape-it": "^5.2.4",
     "split-by-comma": "^1.0.0"
   },
   "files": [

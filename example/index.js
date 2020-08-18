@@ -2,7 +2,7 @@
 
 const CodeMentor = require("../lib");
 
-CodeMentor.mentorProfile("johnnyb", (err, data) => {
+CodeMentor.mentorProfile("johnnyb", (err, { data }) => {
     console.log(JSON.stringify(data, null, 4));
     // =>
     // {
