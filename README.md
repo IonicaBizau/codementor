@@ -79,7 +79,7 @@ yarn add codementor
 ```js
 const CodeMentor = require("codementor");
 
-CodeMentor.mentorProfile("johnnyb", (err, data) => {
+CodeMentor.mentorProfile("johnnyb", (err, { data }) => {
     console.log(JSON.stringify(data, null, 4));
     // =>
     // {
